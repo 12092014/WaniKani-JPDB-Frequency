@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WaniKani JPDB Frequency
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Adds JPDB frequency data to WaniKani
 // @author       12092014
 // @match        https://www.wanikani.com/*
