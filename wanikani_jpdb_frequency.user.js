@@ -6,11 +6,12 @@
 // @author       12092014
 // @match        https://www.wanikani.com/*
 // @match        https://preview.wanikani.com/*
-// @require      https://cdn.jsdelivr.net/npm/fflate/umd/index.js
+// @require      https://update.greasyfork.org/scripts/442805/1036436/fflateumd.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        unsafeWindow
+// @license      GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // ==/UserScript==
 
 (function () {
