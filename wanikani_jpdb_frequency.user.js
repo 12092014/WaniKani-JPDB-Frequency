@@ -177,8 +177,8 @@
 
             // Color coding based on rank (approximate)
             freq_elem.classList.remove('high-freq', 'med-freq', 'low-freq');
-            if (freq < 1500) freq_elem.classList.add('high-freq');
-            else if (freq < 5000) freq_elem.classList.add('med-freq');
+            if (freq < 2000) freq_elem.classList.add('high-freq');
+            else if (freq < 10000) freq_elem.classList.add('med-freq');
             else freq_elem.classList.add('low-freq');
 
             // console.log(`WaniKani JPDB Frequency: Updated indicator for "${text}" with freq: ${freq}`);
